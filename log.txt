@@ -1,3 +1,10 @@
 
 1734536109245:::1 GET: /api/users
 1734536154718:::1 DELETE: /api/users/1003
+1734619124249:::1 GET: /api/users
+1734619175245:::1 GET: /api/users
+1734619199888:::1 GET: /api/users
+1734619261488:::1 GET: /api/users
+1734620890512:::1 POST: /api/users
+1734620899783:::1 POST: /api/users
+1734621114734:::1 GET: /api/users/100333
